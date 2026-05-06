@@ -1,0 +1,4 @@
+VITE_SUPABASE_URL=https://hsdfcjmefctfuxejsnms.supabase.co
+VITE_SUPABASE_ANON_KEY=sb_publishable_MYLsEPnDP_D_en5FMZ66IQ_jwxd5Grh
+VITE_SUPABASE_URL=https://your-project-id.supabase.co
+VITE_SUPABASE_ANON_KEY=your-supabase-anon-key
