@@ -17,6 +17,7 @@ A product intelligence dashboard that transforms raw customer feedback into acti
 - [Tailwind CSS](https://tailwindcss.com/) — utility-first styling
 - [Supabase](https://supabase.com/) — Postgres database with Row Level Security
 - [Lucide React](https://lucide.dev/) — icon library
+- ![PulseAI Architecture](pulseai_portfolio.png)
 
 ## Getting Started
 
